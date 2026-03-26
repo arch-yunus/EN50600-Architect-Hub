@@ -1,6 +1,10 @@
 # 🏗️ EN50600 Architect Hub
 
 <p align="center">
+  <img src="assets/banner.png" alt="EN50600 Architect Hub Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Standard-CENELEC%20EN%2050600-blue?style=for-the-badge&logo=engineering" alt="EN 50600 Standard">
   <img src="https://img.shields.io/badge/Domain-Data%20Center%20Architecture-darkgreen?style=for-the-badge" alt="Domain">
   <img src="https://img.shields.io/badge/Status-Apotheosis%20Edition-gold?style=for-the-badge" alt="Status">
